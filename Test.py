@@ -43,4 +43,4 @@ output = pd.DataFrame({'Predicted_play':predictions[:, 1], 'Actual_Play': test_y
 output.to_csv("predictions.csv")
 
 
-# Notable Features: Yardline, Score Differential, Yards to Go, Game Seconds Remaining, Huddle/No Huddle, Down, Posteam, Defteam
+# Notable Features: Yardline, Score Differential, Yards to Go, Game Seconds Remaining, Huddle/No Huddle, Down, Posteam (Categorical), Defteam (Categorical), 
