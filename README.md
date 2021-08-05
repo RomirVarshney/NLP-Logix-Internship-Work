@@ -1,5 +1,7 @@
 # NLP-Logix-Internship-Work
-Data visualizations and machine learning code utilized for the NLP Logix Summer Internship
+
+Data visualizations and machine learning code utilized for the NLP Logix Summer Internship.
+
   I participated in NLP Logix's Data Science Boot Camp Summer Internship program, an internship that lasts for 5 weeks, every Monday/Wednesday/Friday from 1 PM - 5 PM.
   
   I was able to join due to being recommended by my guidance counselor, and being selected by the NLP team.
